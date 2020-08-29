@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/eZubia/algoritmos-encriptacion/issues"
   },
-  "homepage": "https://github.com/eZubia/algoritmos-encriptacion#readme"
+  "homepage": "https://github.com/eZubia/algoritmos-encriptacion#readme",
+  "dependencies": {
+    "node-rsa": "^1.1.1"
+  }
 }
