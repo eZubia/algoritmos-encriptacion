@@ -1,0 +1,19 @@
+{
+  "name": "algoritmos-erik",
+  "version": "1.0.0",
+  "description": "Proyecto para la clase de algoritmos de programación",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eZubia/algoritmos-encriptacion.git"
+  },
+  "author": "Erik Zubia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eZubia/algoritmos-encriptacion/issues"
+  },
+  "homepage": "https://github.com/eZubia/algoritmos-encriptacion#readme"
+}
